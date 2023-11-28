@@ -5,6 +5,7 @@
 Have you ever wanted to add subtitles to your videos but found it time-consuming and tedious? I felt the same, so I created this solution that streamlines the entire process.
 
 👉 Here's how it works:
+
 1️⃣ Paste a YouTube video URL.
 
 2️⃣ Click 'Play Your Video' to preview and download the video.
