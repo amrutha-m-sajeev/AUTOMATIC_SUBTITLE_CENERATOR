@@ -6,9 +6,13 @@ Have you ever wanted to add subtitles to your videos but found it time-consuming
 
 👉 Here's how it works:
 1️⃣ Paste a YouTube video URL.
+
 2️⃣ Click 'Play Your Video' to preview and download the video.
+
 3️⃣ Click 'Generate Subtitles,' and the magic happens!
+
 4️⃣ Our Deep Learning model transcribes the audio, syncs it with the video, and generates subtitles in real-time.
+
 5️⃣ You get a fully subtitled video ready to share or use.
 
 🔥 Features:
